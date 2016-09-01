@@ -1,2 +1,2 @@
-# jenadevs-meetup-004-test-pyramid
-Jena Developers Meetup 004 - Test Pyramid
+# jenadevs-meetup-004-test-paradise
+Jena Developers Meetup 004 - Test Paradise
