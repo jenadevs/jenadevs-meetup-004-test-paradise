@@ -3,6 +3,7 @@
 Many shapes of Testing - Talks and workshops for all stakeholders
 
 * With [TestParadiesJena](http://testparadiesjena.de)
+* Event on [Meetup](http://www.meetup.com/jenadevs/events/233891434/) and [Xing](https://www.xing.com/events/meetup-jena-many-shapes-of-testing-talks-4-workshops-1724186)
 
 ## Keynote
 
